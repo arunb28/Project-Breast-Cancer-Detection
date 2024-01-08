@@ -42,7 +42,7 @@ This project focuses on using machine learning to predict the diagnosis of breas
 
 ## Author
 
-- Arunkumar B
+- Arun B
 
 
 

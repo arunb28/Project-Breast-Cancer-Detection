@@ -7,7 +7,7 @@ This project focuses on using machine learning to predict the diagnosis of breas
 ## Project Structure
 
 - **Notebooks:** Contains Jupyter Notebooks with the project code.
-  - `Breast_Cancer_Detection.ipynb`: Main notebook with data loading, exploration, model training, and evaluation.
+  - `Project_Breast_Cancer_Detection.ipynb`: Main notebook with data loading, exploration, model training, and evaluation.
   
 - **Data:** Contains the dataset used in the project.
   - `breast_cancer_data.csv`: Dataset containing features computed from digitized images of cell nuclei.
@@ -18,7 +18,7 @@ This project focuses on using machine learning to predict the diagnosis of breas
 
 ### Running the Notebook
 
-1. Open `Breast_Cancer_Detection.ipynb` in a Jupyter Notebook environment.
+1. Open `Project_Breast_Cancer_Detection.ipynb` in a Jupyter or google colab Notebook environment.
 2. Execute the cells in order to load data, explore, train the model, and evaluate.
 
 ### Dataset
@@ -43,5 +43,6 @@ This project focuses on using machine learning to predict the diagnosis of breas
 ## Author
 
 - Arunkumar B
+
 
 
